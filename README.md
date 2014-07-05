@@ -1,4 +1,4 @@
 S3-Colors
 =========
 
-CSS Colors
+Visit: [Documentation / Demonstration](http://shaz3e.github.io/S3-Colors/)
