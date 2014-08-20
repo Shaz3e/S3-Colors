@@ -24,9 +24,13 @@ header.sticky{
 	position:fixed;
 	top:0;
 	height:50px;
-	opacity:0.5;
+	z-index:99;
 	
-	&:hover{opacity:1;}
+	&:hover{
+		zoom:1;
+		filter:alpha(opacity=50);
+		opacity:0.5;
+	}
 	
 	img{
 		width:25px;
